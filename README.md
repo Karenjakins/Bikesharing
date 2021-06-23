@@ -18,17 +18,31 @@ The following analysis was conducted to demonstrate the potential of investing i
 
 1. August Peak Hours
 
-![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Votes%20Information.png "August Peak Hours")
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/August%20Peak%20Hours.png "August Peak Hours")
 
 2. Top Ending Locations
 
-![alt text](https://github.com/Karenjakins/Election_Analysis/blob/main/Resources/County%20Votes%20Information.png "Top Ending Locations")
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Top%20Ending%20Locations.png "Top Ending Locations")
 
-3. Season
-4. Gender
-5.
-6.
-7.
+3. Checkout Times for Users 
+
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png "Checkout Times for Users")
+
+4. Checkout Times by Gender
+
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.png "Checkout Times by Gender")
+
+5. Trips by Weekday for Each Hour
+
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png "Trips by Weekday for Each Hour")
+
+6. Trips by Gender (Weekday per Hour)
+
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour.png "Trips by Gender (Weekday per Hour)")
+
+7. User Trips by Gender by Weekday
+
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png "User Trips by Gender by Weekday")
 
 
 ## Summary 
