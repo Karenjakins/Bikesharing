@@ -36,9 +36,9 @@ The following analysis was conducted to demonstrate the potential of investing i
 
 ![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png "Trips by Weekday for Each Hour")
 
-6. Trips by Gender (Weekday per Hour)
+6. Trips by Gender per Hour
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20Hour.png "Trips by Gender (Weekday per Hour)")
+![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Gender%20per%20Hour.png "Trips by Gender per Hour")
 
 7. User Trips by Gender by Weekday
 
