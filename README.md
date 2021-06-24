@@ -13,44 +13,65 @@ The following analysis was conducted to demonstrate the potential of investing i
 
 ## Results 
 
-- The analysis was completed in Tableau to create dynamic and straight forward graphs to better comprehend the data. A total of 7 graphs as can be referenced below: 
+- The analysis was completed in Tableau to create dynamic and straightforward graphs to better comprehend the data. A total of **7 graphs** as can be referenced below: 
 
 
-1. August Peak Hours
+1. **August Peak Hours**
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/August%20Peak%20Hours.png "August Peak Hours")
 
-2. Top Ending Locations
+	![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/August%20Peak%20Hours.png "August Peak Hours")
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Top%20Ending%20Locations.png "Top Ending Locations")
+	During the summer months, bike rentals tend to be at the highest since the weather is warm and people tend to spend their spare time outdoors, which is clearly reflected by the data and the bar chart above. In the month of August, a popular summer month, the most popular times were from **7 AM to 8 PM**.  
 
-3. Checkout Times for Users 
+2. **Top Ending Locations**
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png "Checkout Times for Users")
+	![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Top%20Ending%20Locations.png "Top Ending Locations")
 
-4. Checkout Times by Gender
+	For a bike renting business to be effective there needs to be a clear understanding of areas within cities that have higher demand and where most of the bikes need to be allocated to ensure there is enough supply. The above visualization shows the **top ending locations** in NYC which reflects where the majority of the bikes were taken when they were checked out by the users. 
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.png "Checkout Times by Gender")
+3. **Checkout Times for Users** 
 
-5. Trips by Weekday for Each Hour
+	![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png "Checkout Times for Users")
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png "Trips by Weekday for Each Hour")
+	The above line graph shows the **average time** a bike was checked out by the users, which can be useful to offer fair pricing and ideal rental time slots for the bikes.  
 
-6. Trips by Gender per Hour
+4. **Checkout Times by Gender**
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Gender%20per%20Hour.png "Trips by Gender per Hour")
+	![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.png "Checkout Times by Gender")
 
-7. User Trips by Gender by Weekday
+	The above graphic is a more detailed look into the checkout times, and it looks into **gender**, which can be useful to understand trends and how to cater to all demographics and perhaps offer bikes that can meet the needs of different users. 
 
-![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png "User Trips by Gender by Weekday")
+5. **Trips by Weekday for Each Hour**
+
+	![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20for%20Each%20Hour.png "Trips by Weekday for Each Hour")
+
+	This heatmap shows the density of use per hour, clearly pointing to **higher bike use during the evenings and towards the weekend**. 
+
+6. **Trips by Gender per Hour**
+
+	![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/Trips%20by%20Gender%20per%20Hour.png "Trips by Gender per Hour")
+
+	This heatmap expands on the use per weekday by the hour in terms of gender, to get a **clearer idea of peak use time for different demographics**. 
+
+7. **User Trips by Gender by Weekday**
+
+	![alt text](https://github.com/Karenjakins/Bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png "User Trips by Gender by Weekday")
+
+	This heatmap displays the usage by user type, that being a subscriber to a bike rental subscription or a regular paying customer who checks out a bike for a single-use trip. The heatmap shows, the user type, the **gender** and the usage **per day** by the **start time**. 
 
 
 ## Summary 
 
+This data analysis provides insightful information for investors into the demand for bike renting businesses in New York which can be implemented in cities like Des Moines. It's clear there is a high demand for bikes, regardless of gender and it appears to be a popular method of transportation be it for day-to-day needs to more touristic uses.
 
+Based on the data set provided, I would have conducted an analysis of hours where bikes were used the least, to plan out the most ideal time slots for maintenance of the bikes across the stations to ensure bikes are always ready to be checked out without inconveniencing users and customers.
+
+Another analysis that can be useful to conduct would be to take into consideration the distances transited by users, and with this information try to set up a more efficient plan for stations that allow for more reachability for all commutes.
 
 ## Resources
 
 **Data Source:** new.csv, 201908-citibike-tripdata.csv
+
+[**link to dashboard**](LINK GOES HERE)
 
 **Software:** Tableau, Pandas
