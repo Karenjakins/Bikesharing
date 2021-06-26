@@ -72,6 +72,6 @@ Another analysis that can be useful to conduct would be to take into considerati
 
 **Data Source:** new.csv, 201908-citibike-tripdata.csv
 
-[**link to dashboard**](LINK GOES HERE)
+[**link to dashboard**](https://public.tableau.com/views/ChallengeAssignmentKEJ/NYCCitiBank?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 **Software:** Tableau, Pandas
